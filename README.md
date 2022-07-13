@@ -1,5 +1,17 @@
-### TheSquid15 aka Keystroker Deluxe 🤖
+<!-- ![TheSquid15 banner](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") -->
 
+# TheSquid15 aka Keystroker Deluxe 🤖
+
+Hey! I'm a Web Developer and a design wizard 🧙
+I love coding but I'm too scared to contribute to public repos, so most of the stuff I work on are my own projects. 
+
+## Here are some things about me:
+- 🐘 I like to use PHP
+- ✨ I love using Javascript
+- 🐍 I think Python is pretty cool
+- 🔰 Lua is great, so far...
+- 🦑 I don't know why I chose the handle TheSquid15
+- 📚 I'm interested in books, movies and video games
 
 <!--
 **TheSquid15/TheSquid15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
