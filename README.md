@@ -1,4 +1,4 @@
-<!-- ![TheSquid15 banner](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") -->
+<img src="https://github.com/TheSquid15/TheSquid15/blob/main/title.png">
 
 # TheSquid15 aka Keystroker Deluxe 🤖
 
