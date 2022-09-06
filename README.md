@@ -13,6 +13,7 @@ I love coding but I'm too scared to contribute to public repos, so most of the s
 - 🦑 I don't know why I chose the handle TheSquid15
 - 🕸️ Web technologies make my knees weak
 - 📚 I'm interested in books, movies and video games
+- ⚛️ Just started learning React
 
 <!--
 **TheSquid15/TheSquid15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
